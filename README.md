@@ -18,4 +18,4 @@ https://www.thingiverse.com/thing:6537772
 
 ## GitHub
 
-https://github.com/nomike/hsw_parameterized_hook
+https://github.com/nomike/hsw_parametric_hook
