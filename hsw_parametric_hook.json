@@ -1,0 +1,29 @@
+{
+    "parameterSets": {
+        "25.5x5x5": {
+            "const_hsw_diameter": "15.29",
+            "hook_diameter": "5",
+            "hook_length": "25.5",
+            "hook_nose_height": "5",
+            "insert_length": "13",
+            "slope_height": "1"
+        },
+        "10.0x5x5": {
+            "const_hsw_diameter": "15.29",
+            "hook_diameter": "5",
+            "hook_length": "25.5",
+            "hook_nose_height": "5",
+            "insert_length": "13",
+            "slope_height": "1"
+        },
+        "20.0x9x4": {
+            "const_hsw_diameter": "15.29",
+            "hook_diameter": "9",
+            "hook_length": "20",
+            "hook_nose_height": "4",
+            "insert_length": "13",
+            "slope_height": "1"
+        }
+    },
+    "fileFormatVersion": "1"
+}
