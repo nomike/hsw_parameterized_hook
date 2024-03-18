@@ -2,7 +2,7 @@
     hsw_parametric_hook - OpenSCAD script to generate hooks for the Honeycomb Storage Wall (HSW) system
     Copyright (C) 2024  nomike[AT]nomike[DOT]com
 
-    This design is licensed under the Creative Commons - Attribution  - Non-Commercial 4.0 License.
+    This work is released with CC0 into the public domain.
 */
 
 insert_length = 13;

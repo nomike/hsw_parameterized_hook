@@ -1,0 +1,25 @@
+{
+  "thing": {
+    "name": "HSW Parametric Hook",
+    "category": "Other",
+    "tags": [
+      "parametric",
+      "openscad",
+      "honeycomb storage wall",
+      "HSW"
+    ],
+    "instructions": "4 perimeters, 20% infall, no supports, no brim",
+    "is_wip": false,
+    "license": "cc0",
+    "description": "# HSW parametric hook\n\nThis is a small parametric hook for the honeycomb storage wall.\n\n## Acknowledgements\n\nThis is a parametric recreation of [Small hook (for Honeycomb Storage Wall)](https://www.printables.com/model/259531-small-hook-for-honeycomb-storage-wall) by DusBus which is in turn based on [Honeycomb storage wall](https://www.printables.com/model/152592-honeycomb-storage-wall) created by RostaP.\n\n## Print instructions\n\nLike all HSW inserts, I've printed this with 4 perimeters and 20% infill. I've used a 0.4mm nozzle and 0.2mm layer height. I've printed this in PLA, but PETG or ABS should work as well.\n\nDespite getting a warning in PrusaSlicer I was able to print this on an Prusa MK4 without supports or brim without any issues.\n\n## License\n\nThis work is licensed under [Creative Commons - Attribution - Non-Commercial](http://creativecommons.org/licenses/by-nc/4.0/).",
+    "id": 6537772
+  },
+  "files": [
+    "hsw_parametric_hook.scad",
+    "hsw_parametric_hook.json",
+    "output/hsw_parametric_hook-10.0x5x5.stl",
+    "output/hsw_parametric_hook-20.0x9x4.stl",
+    "output/hsw_parametric_hook-25.5x5x5.stl"
+  ],
+  "images": []
+}
