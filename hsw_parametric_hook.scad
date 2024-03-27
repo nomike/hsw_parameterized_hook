@@ -11,7 +11,7 @@ hook_diameter = 5;
 hook_nose_height = 5;
 slope_height = 1;
 
-const_hsw_diameter = 15.29; // 15.15 mm hooks slide in and out with ease. 15.29 mm is neatly tight.
+const_hsw_diameter = 15.47; // 15.15 mm hooks slide in and out with ease. 15.47 mm is quite tight.
 
 
 
