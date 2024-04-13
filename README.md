@@ -10,4 +10,4 @@ The design is a parametric recreation of [Small hook (for Honeycomb Storage Wall
 
 ## GitHub
 
-<https://github.com/nomike/parametric_hook_for_hsw>
+<https://github.com/nomike/parametric-hook-and-loop-for-hsw>
