@@ -23,6 +23,22 @@
             "hook_nose_height": "4",
             "insert_length": "13",
             "slope_height": "1"
+        },
+        "Spirit Level Hook": {
+            "const_hsw_diameter": "15.29",
+            "hook_diameter": "7",
+            "hook_length": "25.5",
+            "hook_nose_height": "3",
+            "insert_length": "13",
+            "slope_height": "1"
+        },
+        "Cutting Ruler": {
+            "const_hsw_diameter": "15.29",
+            "hook_diameter": "5.5",
+            "hook_length": "5",
+            "hook_nose_height": "1",
+            "insert_length": "13",
+            "slope_height": "1"
         }
     },
     "fileFormatVersion": "1"
