@@ -30,7 +30,7 @@ insert_length = 13;
 hole_width = 25;
 hole_length = 3;
 loop_heigth = 7;
-wall_thickness = 2;
+wall_thickness = 1.5;
 closed_bottom = false;
 
 
